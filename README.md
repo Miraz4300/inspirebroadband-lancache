@@ -1,4 +1,4 @@
-# Inspire Broadband Unbound Local DNS
+# Inspire Broadband (AS135310) Lancache
 
 This repository contains Unbound DNS configuration files for **Inspire Broadband Internet**. It maps game and service domains to a local caching server (`10.100.100.10`) to optimize downloads and reduce latency.
 
