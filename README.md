@@ -37,5 +37,5 @@ dig gs2.ww.prod.dl.playstation.net @127.0.0.1 -p 5335
 ```
 
 ## Notes
-- This configuration is **only applicable for Inspire Broadband Internet**.
-- Ensure that Unbound is properly integrated with **Pi-hole** if you're using it as a recursive resolver.
+- This configuration is only applicable for **Inspire Broadband Internet**.
+- Ensure that Unbound is properly integrated with **Pi-hole**.
